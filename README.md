@@ -10,8 +10,8 @@ Style transfer relies on separating the content and style of an image. Given one
 
 ## Input Files
 As input we'll take the style of _Starry Night by Van Gogh_, and use the content of a group image with my best friends.
-![starry_night](https://github.com/youssefokeil/Gatys-et-Al-reimplementation/blob/main/input_images/starry_night.jpg)
-<img src="https://github.com/youssefokeil/Gatys-et-Al-reimplementation/blob/main/input_images/pre_germany.JPG" alt="boys_image" width="200"/>
+<img src="https://github.com/youssefokeil/Gatys-et-Al-reimplementation/blob/main/input_images/starry_night.jpg" alt="starry_image" width="600"/>
+<img src="https://github.com/youssefokeil/Gatys-et-Al-reimplementation/blob/main/input_images/pre_germany.JPG" alt="boys_image" width="600"/>
 
 ## Output Files
 The output of blending the style of Van Gogh with the group photo is:
